@@ -1,9 +1,9 @@
-
+import Header from '@/shared/Header'
 
 export default function Home() {
   return (
    <main>
-    <h1>Home page</h1>
+    <Header/>
    </main>
   );
 }
